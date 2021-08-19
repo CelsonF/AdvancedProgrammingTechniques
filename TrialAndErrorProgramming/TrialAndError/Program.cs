@@ -25,6 +25,18 @@ namespace TrialAndError
             Board = new int[NumberPositions,NumberPositions]
         }
 
+        private bool Acceptable(int x,int y)
+        {
+            bool Result = (x >= 0 && x <= NumberPositions - 1);
+            Result = Result && (y >= 0 && y <= NumberPositions - 1);
+            Result = Result && (Board[x,y] == 0);
+
+            return result;
+        }
+
+        bool TryMoviment() {
+            
+        }
 
     }
     
