@@ -12,4 +12,4 @@
  
  1. BruteForce
  2. TrialAndError
- 3. DivisionConquest
+ 3. DivisionAndConquest
