@@ -1,0 +1,16 @@
+C:\Users\Celson\Documents\ProjetosGitHub\AdvancedProgrammingTechniques\DynamicPrograming\bin\Debug\net5.0\DynamicPrograming.exe
+C:\Users\Celson\Documents\ProjetosGitHub\AdvancedProgrammingTechniques\DynamicPrograming\bin\Debug\net5.0\DynamicPrograming.deps.json
+C:\Users\Celson\Documents\ProjetosGitHub\AdvancedProgrammingTechniques\DynamicPrograming\bin\Debug\net5.0\DynamicPrograming.runtimeconfig.json
+C:\Users\Celson\Documents\ProjetosGitHub\AdvancedProgrammingTechniques\DynamicPrograming\bin\Debug\net5.0\DynamicPrograming.runtimeconfig.dev.json
+C:\Users\Celson\Documents\ProjetosGitHub\AdvancedProgrammingTechniques\DynamicPrograming\bin\Debug\net5.0\DynamicPrograming.dll
+C:\Users\Celson\Documents\ProjetosGitHub\AdvancedProgrammingTechniques\DynamicPrograming\bin\Debug\net5.0\ref\DynamicPrograming.dll
+C:\Users\Celson\Documents\ProjetosGitHub\AdvancedProgrammingTechniques\DynamicPrograming\bin\Debug\net5.0\DynamicPrograming.pdb
+C:\Users\Celson\Documents\ProjetosGitHub\AdvancedProgrammingTechniques\DynamicPrograming\obj\Debug\net5.0\DynamicPrograming.csproj.AssemblyReference.cache
+C:\Users\Celson\Documents\ProjetosGitHub\AdvancedProgrammingTechniques\DynamicPrograming\obj\Debug\net5.0\DynamicPrograming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Celson\Documents\ProjetosGitHub\AdvancedProgrammingTechniques\DynamicPrograming\obj\Debug\net5.0\DynamicPrograming.AssemblyInfoInputs.cache
+C:\Users\Celson\Documents\ProjetosGitHub\AdvancedProgrammingTechniques\DynamicPrograming\obj\Debug\net5.0\DynamicPrograming.AssemblyInfo.cs
+C:\Users\Celson\Documents\ProjetosGitHub\AdvancedProgrammingTechniques\DynamicPrograming\obj\Debug\net5.0\DynamicPrograming.csproj.CoreCompileInputs.cache
+C:\Users\Celson\Documents\ProjetosGitHub\AdvancedProgrammingTechniques\DynamicPrograming\obj\Debug\net5.0\DynamicPrograming.dll
+C:\Users\Celson\Documents\ProjetosGitHub\AdvancedProgrammingTechniques\DynamicPrograming\obj\Debug\net5.0\ref\DynamicPrograming.dll
+C:\Users\Celson\Documents\ProjetosGitHub\AdvancedProgrammingTechniques\DynamicPrograming\obj\Debug\net5.0\DynamicPrograming.pdb
+C:\Users\Celson\Documents\ProjetosGitHub\AdvancedProgrammingTechniques\DynamicPrograming\obj\Debug\net5.0\DynamicPrograming.genruntimeconfig.cache

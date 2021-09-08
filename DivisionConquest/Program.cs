@@ -4,9 +4,9 @@ namespace DivisionConquest
 {
     class Program
     {
-            static public void MainMerge(int[] numbers, int left, int mid, int right)
-            {
-                int[] temp = new int[25];
+        static public void MainMerge(int[] numbers, int left, int mid, int right)
+        {
+            int[] temp = new int[25];
                 int i, eol, num, pos;
                 eol = (mid - 1);
                 pos = left;
@@ -41,6 +41,7 @@ namespace DivisionConquest
                     MainMerge(numbers, left, (mid + 1), right);
                 }
             }
+            
         static void Main(string[] args)
         {
             Console.Write("\nProgram for sorting a numeric array using Merge Sorting");

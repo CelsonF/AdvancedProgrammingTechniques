@@ -13,3 +13,4 @@
  1. BruteForce
  2. TrialAndError
  3. DivisionAndConquest
+ 4. DynamicPrograming
