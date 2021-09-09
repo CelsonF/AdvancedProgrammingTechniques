@@ -6,8 +6,10 @@ namespace AdvancedProgrammingTechniques
     {
         static void Main(string[] args)
         {
-            BruteForce.OutputBruteForce();
-            
+            //BruteForce.OutputBruteForce();
+
+            DynamicPrograming.OutputDynamicProg();
+
         }
     }
 }
